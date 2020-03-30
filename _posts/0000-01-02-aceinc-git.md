@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Witty Comment is Why don't the instructions tell you to click on the three lines item to find "Edit File?"
 Use the left arrow to go back!
